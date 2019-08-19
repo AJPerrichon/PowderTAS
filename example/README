@@ -1,0 +1,3 @@
+An example of the code output is accessible here, for a simple cubic perovskite, BaZrO3.
+Try to run the "powdertas_makefigure_map.mlx" and "powdertas_makefigure_slice.mlx" scripts, which load the saved workspaces "data_0to5_PBE.mat" and "data_R_PBE.mat".
+The binary file containing the eigenvectors is provided in the Initial Release, PowderTAS_v1.0 (it should be placed into the dat/ folder).
