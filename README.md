@@ -6,3 +6,6 @@ The PowderTAS script and its functions are in the Matlab live script format, and
 
 **2019-08-22.**
 The "powdertas_interpolate_eigenvectors" has been updated. The qmesh is now shrinked to the positive quadrant before the interpolation, which massively speeds up this step, from 140 to 55 seconds for Nvec=1e5. The header of the main file has been updated accordingly.
+
+*Example: The neutron-weighted scattering map of a powder sample of BaZrO3.*
+![alt text](https://imgshare.io/images/2019/08/22/logo.png)
